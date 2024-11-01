@@ -5,9 +5,9 @@
   // Set the document's basic properties.
   set document(author: authors, title: title)
   set par(justify: true)
-  set text(font: "Liberation Sans", hyphenate: false, size: 10pt)
+  set text(font: "Georgia", hyphenate: false, size: 10pt)
   set par(leading: 1em)
-  set page(margin: (x: 30pt, y: 40pt))
+  set page(margin: (x: 30pt, y: 30pt))
   show link: it => [
     #underline(offset: 2pt)[
       #it

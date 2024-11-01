@@ -77,7 +77,7 @@ Full Stack Developer with 1 year of proven experience building comprehensive web
 
 == TECHNICAL SKILLS
 #box(height: 58pt)[ 
-  #columns(5)[
+  #columns(4)[
     - TypeScript
     - Golang
     - Adonis.js
@@ -93,10 +93,10 @@ Full Stack Developer with 1 year of proven experience building comprehensive web
     - MongoDB
     - Linux
     - Docker
-    - GitHub Actions
-    - NGINX
-    - PM2
-    - Dokploy
+    // - GitHub Actions
+    // - NGINX
+    // - PM2
+    // - Dokploy
   ]
 ]
 
