@@ -2,9 +2,7 @@
 
 #show: project.with(
   title: "Taufik Hidayat Resume",
-  authors: (
-    "Taufik Hidayat",
-  ),
+  authors: ("Taufik Hidayat",),
 )
 
 #align(center)[
@@ -18,7 +16,7 @@ Full Stack Developer with 1 year of proven experience building comprehensive web
 
 == WORK EXPERIENCE
 #pad(bottom: 10pt)[
-  #box(height: 24pt)[
+  #box(height: 23pt)[
     #columns(2)[
       *Netovas Eterna Teknologi* \
       _Full Stack Developer_
@@ -36,11 +34,11 @@ Full Stack Developer with 1 year of proven experience building comprehensive web
   - Develop a full-featured online manga reading application using SvelteKit and Pocketbase.
     // - Implemented user authentication, manga catalog management, and smooth navigation, leading to a *25% increase in active user sessions* within the first month of launch.
 ]
-#box(height: 24pt)[
+#box(height: 23pt)[
   #columns(2)[
     *Inovindo Digital Media* \
     _Junior Web Developer Intern_
-   
+
     #align(right)[
       Bandung, Indonesia (On-site) \
       January 2019 – March 2019
@@ -52,10 +50,10 @@ Full Stack Developer with 1 year of proven experience building comprehensive web
 - Managed the company’s product list database.
 - Published articles for client company blogs.
 - Enhanced search engine optimization (SEO) of client websites to improve visibility and performance.
-  
+
 == EDUCATION
 #pad(bottom: 4pt)[
-  #box(height: 41pt)[
+  #box(height: 40pt)[
     #columns(2, gutter: 11pt)[
       *Bale Bandung University* \
       Bachelor of Computer Science \
@@ -67,7 +65,7 @@ Full Stack Developer with 1 year of proven experience building comprehensive web
   - Best Capstone Project Winner (Yukitanya) in MSIB Batch 5 at seKODlah (Forest Interactive)
   - Best Computer Science Student (2024 Faculty of Information Technology Judicium)
 ]
-#box(height: 41pt)[
+#box(height: 23pt)[
   #columns(2, gutter: 11pt)[
     *SMKN 7 Baleendah* \
     Software Engineering
@@ -76,7 +74,7 @@ Full Stack Developer with 1 year of proven experience building comprehensive web
 ]
 
 == TECHNICAL SKILLS
-#box(height: 58pt)[ 
+#box(height: 58pt)[
   #columns(4)[
     - TypeScript
     - Golang
@@ -101,12 +99,12 @@ Full Stack Developer with 1 year of proven experience building comprehensive web
 ]
 
 == FEATURED PORTFOLIO
-  - #link("https://github.com/tfkhdyt/with-catch")[With Catch] - Utilities that wrap promise or synchronous function to catch the error then return the result and error in consistent tuple format.
-  - #link("https://github.com/tfkhdyt/yukitanya")[Yukitanya] - Platform that connects many students into a discussion forum to complete schoolwork together.
-  - #link("https://github.com/tfkhdyt/geminicommit")[Geminicommit] - CLI that writes your git commit messages for you with Google Gemini AI.
-  - #link("https://github.com/tfkhdyt/pomodoro")[Pomodoro] - Minimalistic Pomodoro Timer Desktop App written in Tauri and SvelteKit.
-  - #link("https://github.com/tfkhdyt/pondokeun")[Pondokeun] - Lightweight, Modern, Free and Open Source Link Shortener.
-  - #link("https://qdei.co/")[QDEI.co Landing Page] - Cloud Service Provider Landing Page
+- #link("https://github.com/tfkhdyt/with-catch")[With Catch] - Utilities that wrap promise or synchronous function to catch the error then return the result and error in consistent tuple format.
+- #link("https://github.com/tfkhdyt/yukitanya")[Yukitanya] - Platform that connects many students into a discussion forum to complete schoolwork together.
+- #link("https://github.com/tfkhdyt/geminicommit")[Geminicommit] - CLI that writes your git commit messages for you with Google Gemini AI.
+- #link("https://github.com/tfkhdyt/pomodoro")[Pomodoro] - Minimalistic Pomodoro Timer Desktop App written in Tauri and SvelteKit.
+- #link("https://github.com/tfkhdyt/pondokeun")[Pondokeun] - Lightweight, Modern, Free and Open Source Link Shortener.
+- #link("https://qdei.co/")[QDEI.co Landing Page] - Cloud Service Provider Landing Page
 #link("https://github.com/tfkhdyt?tab=repositories")[See my other projects here »]
 
 == CERTIFICATIONS
