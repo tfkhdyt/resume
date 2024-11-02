@@ -12,21 +12,12 @@
 ]
 
 == INTRODUCTION
-Full Stack Developer with 1 year of proven experience building comprehensive web solutions using TypeScript and Golang. Demonstrated expertise in modern web technologies through successful project implementations at Netovas Eterna Teknologi. Known for rapidly adopting new technologies, architecting scalable solutions, and advocating for Linux-based development environments. Based in Bandung, Indonesia, seeking opportunities to drive technical innovation and create robust web applications.
+Software Developer with proven track record in crafting modern web solutions using TypeScript and Golang. At Netovas Eterna Teknologi, built high-impact applications including an optimized CRM system with 20% improved performance and a comprehensive billing platform. Distinguished Computer Science graduate with multiple academic awards and a portfolio of successful open-source projects ranging from developer tools to web applications. Seeking challenging opportunities to create innovative, scalable software solutions that deliver measurable business value.
 
 == WORK EXPERIENCE
 #pad(bottom: 10pt)[
-  #box(height: 23pt)[
-    #columns(2)[
-      *Netovas Eterna Teknologi* \
-      _Full Stack Developer_
-
-      #align(right)[
-        Kediri, Indonesia (Remote) \
-        December 2023 – Present
-      ]
-    ]
-  ]
+  *Netovas Eterna Teknologi* #h(1fr) Kediri, Indonesia (Remote) \
+  _Full Stack Developer_ #h(1fr) December 2023 – Present
   - Developed a CRM application for an ISP in Bekasi using Golang and Fiber framework. Optimized system performance, resulting in 20% faster query processing and improved system scalability to handle 2x previous user load.
   - Build a backend billing system using Node.js and Adonis.js for the same ISP to manage complex financial transaction.
     // - Reduced financial data processing time by *30%*, ensuring seamless handling of over *1.000 transactions per day*.
@@ -35,15 +26,8 @@ Full Stack Developer with 1 year of proven experience building comprehensive web
     // - Implemented user authentication, manga catalog management, and smooth navigation, leading to a *25% increase in active user sessions* within the first month of launch.
 ]
 #box(height: 23pt)[
-  #columns(2)[
-    *Inovindo Digital Media* \
-    _Junior Web Developer Intern_
-
-    #align(right)[
-      Bandung, Indonesia (On-site) \
-      January 2019 – March 2019
-    ]
-  ]
+  *Inovindo Digital Media* #h(1fr) Bandung, Indonesia (On-site) \
+  _Junior Web Developer Intern_ #h(1fr) January 2019 – March 2019
 ]
 - Developed an e-commerce website tailored for resellers.
 - Deployed completed websites by the development team to various hosting platforms.
@@ -52,63 +36,72 @@ Full Stack Developer with 1 year of proven experience building comprehensive web
 - Enhanced search engine optimization (SEO) of client websites to improve visibility and performance.
 
 == EDUCATION
-#pad(bottom: 4pt)[
-  #box(height: 40pt)[
-    #columns(2, gutter: 11pt)[
-      *Bale Bandung University* \
-      Bachelor of Computer Science \
-      GPA: 3.79
-      #align(right)[2020 - 2024]
-    ]
-  ]
+#pad(bottom: 10pt)[
+  *Bale Bandung University* #h(1fr) 2020 - 2024 \
+  Bachelor of Computer Science \
+  GPA: 3.79
+  - Best Computer Science Student (2024 Faculty of Information Technology Judicium)
   - Best Academic Achievement in MSIB Batch 5 at seKODlah (Forest Interactive)
   - Best Capstone Project Winner (Yukitanya) in MSIB Batch 5 at seKODlah (Forest Interactive)
-  - Best Computer Science Student (2024 Faculty of Information Technology Judicium)
 ]
 #box(height: 23pt)[
-  #columns(2, gutter: 11pt)[
-    *SMKN 7 Baleendah* \
-    Software Engineering
-    #align(right)[2017 - 2020]
-  ]
+  *SMKN 7 Baleendah* #h(1fr) 2017 - 2020 \
+  Software Engineering
 ]
 
 == TECHNICAL SKILLS
-#box(height: 58pt)[
-  #columns(4)[
-    - TypeScript
-    - Golang
-    - Adonis.js
-    - SvelteKit
-    - Next.js
-    - Hono
-    - Fiber
-    - Tailwind CSS
-    - PostgreSQL
-    - MySQL
-    - SQLite
-    - Redis
-    - MongoDB
-    - Linux
-    - Docker
-    // - GitHub Actions
-    // - NGINX
-    // - PM2
-    // - Dokploy
+#box(height: 50pt)[
+  #columns(2)[
+    *Programming Languages*: TypeScript, JavaScript, Golang \
+    *Front end*: SvelteKit, Next.js, React, Tailwind CSS \
+    *Back end*: Node.js, Bun, Adonis, Hono, Fiber \
+    *Database*: PostgreSQL, MySQL, SQLite, Redis, MongoDB \
+    *DevOps*: Linux, Docker, GitHub Actions, NGINX, PM2, Dokploy \
   ]
 ]
 
+// #box(height: 58pt)[
+//   #columns(4)[
+//     - TypeScript
+//     - Golang
+//     - Adonis.js
+//     - SvelteKit
+//     - Next.js
+//     - Hono
+//     - Fiber
+//     - Tailwind CSS
+//     - PostgreSQL
+//     - MySQL
+//     - SQLite
+//     - Redis
+//     - MongoDB
+//     - Linux
+//     - Docker
+//     // - GitHub Actions
+//     // - NGINX
+//     // - PM2
+//     // - Dokploy
+//   ]
+// ]
+
 == FEATURED PORTFOLIO
-- #link("https://github.com/tfkhdyt/with-catch")[With Catch] - Utilities that wrap promise or synchronous function to catch the error then return the result and error in consistent tuple format.
+- #link("https://github.com/tfkhdyt/with-catch")[With Catch] - TypeScript utitlities that wrap promise or synchronous function to catch the error then return the result and error in consistent tuple format.
 - #link("https://github.com/tfkhdyt/yukitanya")[Yukitanya] - Platform that connects many students into a discussion forum to complete schoolwork together.
 - #link("https://github.com/tfkhdyt/geminicommit")[Geminicommit] - CLI that writes your git commit messages for you with Google Gemini AI.
 - #link("https://github.com/tfkhdyt/pomodoro")[Pomodoro] - Minimalistic Pomodoro Timer Desktop App written in Tauri and SvelteKit.
 - #link("https://github.com/tfkhdyt/pondokeun")[Pondokeun] - Lightweight, Modern, Free and Open Source Link Shortener.
 - #link("https://qdei.co/")[QDEI.co Landing Page] - Cloud Service Provider Landing Page
-#link("https://github.com/tfkhdyt?tab=repositories")[See my other projects here »]
+#link("https://github.com/tfkhdyt?tab=repositories")[See my other portfolios here »]
 
 == CERTIFICATIONS
-- *Mastering JavaScript* - Forest Interactive (MSIB Batch 5), 28 December 2023 \
-- *Scalable Web Service with Golang* - Hacktiv8 Indonesia (MSIB Batch 4), 30 June 2023 \
-- *Become An Expert Back-End Developer* - Dicoding Indonesia (IDCamp 2022), 6 February 2023 \
-- *Building a Cloud Architecture on AWS* - Dicoding Indonesia (IDCamp 2022), 18 October 2022 \
+*Mastering JavaScript* #h(1fr) 28 December 2023 \
+Forest Interactive (MSIB Batch 5)
+#v(5pt)
+*Scalable Web Service with Golang* #h(1fr) 30 June 2023 \
+Hacktiv8 Indonesia (MSIB Batch 4)
+#v(5pt)
+*Become An Expert Back-End Developer* #h(1fr) 6 February 2023 \
+Dicoding Indonesia (IDCamp 2022)
+#v(5pt)
+*Building a Cloud Architecture on AWS* #h(1fr) 18 October 2022 \
+Dicoding Indonesia (IDCamp 2022)
