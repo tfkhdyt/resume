@@ -7,12 +7,12 @@
 
 #align(center)[
   #text(size: 14pt)[*TAUFIK HIDAYAT*] \
-  Email: #link("mailto:tfkhdyt@proton.me")[tfkhdyt\@proton.me] | Phone Number: +6285156002842 \
+  Email: #link("mailto:me@tfkhdyt.my.id")[me\@tfkhdyt.my.id] | Phone Number: +6285156002842 \
   LinkedIn: #link("https://linkedin.com/in/tfkhdyt142")[linkedin.com/in/tfkhdyt142] | GitHub: #link("https://github.com/tfkhdyt")[github.com/tfkhdyt]
 ]
 
-== INTRODUCTION
-Software Developer with proven track record in crafting modern web solutions using TypeScript and Golang. At Netovas Eterna Teknologi, built high-impact applications including an optimized CRM system with 20% improved performance and a comprehensive billing platform. Distinguished Computer Science graduate with multiple academic awards and a portfolio of successful open-source projects ranging from developer tools to web applications. Seeking challenging opportunities to create innovative, scalable software solutions that deliver measurable business value.
+== SUMMARY
+Software Developer with proven track record in crafting modern web solutions using TypeScript and Golang. At Netovas Eterna Teknologi, built high-impact applications including an optimized CRM system with 20% improved performance and a comprehensive billing platform. Distinguished Informatics Engineering graduate with multiple academic awards and a portfolio of successful open-source projects ranging from developer tools to web applications. Seeking challenging opportunities to create innovative, scalable software solutions that deliver measurable business value.
 
 == WORK EXPERIENCE
 #pad(bottom: 10pt)[
@@ -38,9 +38,9 @@ Software Developer with proven track record in crafting modern web solutions usi
 == EDUCATION
 #pad(bottom: 10pt)[
   *Bale Bandung University* #h(1fr) 2020 - 2024 \
-  Bachelor of Computer Science \
+  Bachelor of Computer \
   GPA: 3.79
-  - Best Computer Science Student (2024 Faculty of Information Technology Judicium)
+  - Best Informatics Engineering Student (2024 Faculty of Information Technology Judicium)
   - Best Academic Achievement in MSIB Batch 5 at seKODlah (Forest Interactive)
   - Best Capstone Project Winner (Yukitanya) in MSIB Batch 5 at seKODlah (Forest Interactive)
 ]
@@ -53,8 +53,8 @@ Software Developer with proven track record in crafting modern web solutions usi
 #box(height: 50pt)[
   #columns(2)[
     *Programming Languages*: TypeScript, JavaScript, Golang \
-    *Front end*: SvelteKit, Next.js, React, Tailwind CSS \
-    *Back end*: Node.js, Bun, Adonis, Hono, Fiber \
+    *Front end*: Svelte, React, Next.js, Tailwind CSS \
+    *Back end*: Node.js, Adonis, Hono, Fiber, Bun \
     *Database*: PostgreSQL, MySQL, SQLite, Redis, MongoDB \
     *DevOps*: Linux, Docker, GitHub Actions, NGINX, PM2, Dokploy \
   ]
@@ -90,7 +90,7 @@ Software Developer with proven track record in crafting modern web solutions usi
 - #link("https://github.com/tfkhdyt/geminicommit")[Geminicommit] - CLI that writes your git commit messages for you with Google Gemini AI.
 - #link("https://github.com/tfkhdyt/pomodoro")[Pomodoro] - Minimalistic Pomodoro Timer Desktop App written in Tauri and SvelteKit.
 - #link("https://github.com/tfkhdyt/pondokeun")[Pondokeun] - Lightweight, Modern, Free and Open Source Link Shortener.
-- #link("https://qdei.co/")[QDEI.co Landing Page] - Cloud Service Provider Landing Page
+- #link("https://remove.biji.my.id")[Remove Biji] - Online Image Background Remover
 #link("https://github.com/tfkhdyt?tab=repositories")[See my other portfolios here »]
 
 == CERTIFICATIONS
