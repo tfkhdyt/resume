@@ -2,12 +2,12 @@
 
 #show: project.with(
   title: "Taufik Hidayat Resume",
-  authors: ("Taufik Hidayat",),
+  authors: ("Taufik Hidayat"),
 )
 
 #align(center)[
   #text(size: 14pt)[*TAUFIK HIDAYAT*] \
-  Email: #link("mailto:me@tfkhdyt.my.id")[me\@tfkhdyt.my.id] | Phone Number: +6285156002842 \
+  Email: #link("mailto:hidayat@tfkhdyt.my.id")[hidayat\@tfkhdyt.my.id] | Phone Number: +6285156002842 \
   LinkedIn: #link("https://linkedin.com/in/tfkhdyt142")[linkedin.com/in/tfkhdyt142] | GitHub: #link("https://github.com/tfkhdyt")[github.com/tfkhdyt]
 ]
 
@@ -16,7 +16,7 @@ Software Developer with proven track record in crafting modern web solutions usi
 
 == WORK EXPERIENCE
 #pad(bottom: 10pt)[
-  *Netovas Eterna Teknologi* #h(1fr) Kediri, Indonesia (Remote) \
+  *Netovas Eterna Teknologi* #h(1fr) Bekasi, Indonesia (Remote) \
   _Full Stack Developer_ #h(1fr) December 2023 – Present
   - Developed a CRM application for an ISP in Bekasi using Golang and Fiber framework. Optimized system performance, resulting in 20% faster query processing and improved system scalability to handle 2x previous user load.
   - Build a backend billing system using Node.js and Adonis.js for the same ISP to manage complex financial transaction.
@@ -39,7 +39,7 @@ Software Developer with proven track record in crafting modern web solutions usi
 #pad(bottom: 10pt)[
   *Bale Bandung University* #h(1fr) 2020 - 2024 \
   Bachelor of Computer \
-  GPA: 3.79
+  GPA: 3.78
   - Best Informatics Engineering Student (2024 Faculty of Information Technology Judicium)
   - Best Academic Achievement in MSIB Batch 5 at seKODlah (Forest Interactive)
   - Best Capstone Project Winner (Yukitanya) in MSIB Batch 5 at seKODlah (Forest Interactive)
