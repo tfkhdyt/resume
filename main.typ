@@ -7,18 +7,18 @@
 
 #align(center)[
   #text(size: 14pt)[*TAUFIK HIDAYAT*] \
-  Email: #link("mailto:hidayat@tfkhdyt.my.id")[hidayat\@tfkhdyt.my.id] | Phone Number: +6285156002842 \
+  Email: #link("mailto:taufik@hidayat.dev")[taufik\@hidayat.dev] | Phone Number: +6285156002842 \
   LinkedIn: #link("https://linkedin.com/in/tfkhdyt142")[linkedin.com/in/tfkhdyt142] | GitHub: #link("https://github.com/tfkhdyt")[github.com/tfkhdyt]
 ]
 
 == SUMMARY
-Software Developer with proven track record in crafting modern web solutions using TypeScript and Golang. At Netovas Eterna Teknologi, built high-impact applications including an optimized CRM system with 20% improved performance and a comprehensive billing platform. Distinguished Informatics Engineering graduate with multiple academic awards and a portfolio of successful open-source projects ranging from developer tools to web applications. Seeking challenging opportunities to create innovative, scalable software solutions that deliver measurable business value.
+Software Developer with proven track record in crafting modern web solutions using TypeScript and Golang. At Netovas Eterna Teknologi, built high-impact applications including an optimized ticketing system with 20% improved performance and a comprehensive billing platform. Distinguished Informatics Engineering graduate with multiple academic awards and a portfolio of successful open-source projects ranging from developer tools to web applications. Seeking challenging opportunities to create innovative, scalable software solutions that deliver measurable business value.
 
 == WORK EXPERIENCE
 #pad(bottom: 10pt)[
   *Netovas Eterna Teknologi* #h(1fr) Bekasi, Indonesia (Remote) \
-  _Full Stack Developer_ #h(1fr) December 2023 – Present
-  - Developed a CRM application for an ISP in Bekasi using Golang and Fiber framework. Optimized system performance, resulting in 20% faster query processing and improved system scalability to handle 2x previous user load.
+  _Full Stack Developer_ #h(1fr) December 2023 – April 2025
+  - Developed a ticketing application for an ISP in Bekasi using Golang and Fiber framework. Optimized system performance, resulting in 20% faster query processing and improved system scalability to handle 2x previous user load.
   - Build a backend billing system using Node.js and Adonis.js for the same ISP to manage complex financial transaction.
     // - Reduced financial data processing time by *30%*, ensuring seamless handling of over *1.000 transactions per day*.
   - Created a responsive landing page for a cloud service provider in Jakarta using TypeScript and Astro.js. Achieved 98-100% performance score on Google Lighthouse and reduced page load times to under 2 seconds, improving user engagement.
