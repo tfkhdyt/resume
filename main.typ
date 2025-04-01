@@ -2,12 +2,12 @@
 
 #show: project.with(
   title: "Taufik Hidayat Resume",
-  authors: ("Taufik Hidayat"),
+  authors: "Taufik Hidayat",
 )
 
 #align(center)[
   #text(size: 14pt)[*TAUFIK HIDAYAT*] \
-  Email: #link("mailto:taufik@hidayat.dev")[taufik\@hidayat.dev] | Phone Number: +6285156002842 \
+  Portfolio: #link("https://hidayat.dev")[hidayat.dev] | Email: #link("mailto:taufik@hidayat.dev")[taufik\@hidayat.dev] | Phone Number: +6285156002842 \
   LinkedIn: #link("https://linkedin.com/in/tfkhdyt142")[linkedin.com/in/tfkhdyt142] | GitHub: #link("https://github.com/tfkhdyt")[github.com/tfkhdyt]
 ]
 
@@ -20,10 +20,10 @@ Software Developer with proven track record in crafting modern web solutions usi
   _Full Stack Developer_ #h(1fr) December 2023 – April 2025
   - Developed a ticketing application for an ISP in Bekasi using Golang and Fiber framework. Optimized system performance, resulting in 20% faster query processing and improved system scalability to handle 2x previous user load.
   - Build a backend billing system using Node.js and Adonis.js for the same ISP to manage complex financial transaction.
-    // - Reduced financial data processing time by *30%*, ensuring seamless handling of over *1.000 transactions per day*.
+  // - Reduced financial data processing time by *30%*, ensuring seamless handling of over *1.000 transactions per day*.
   - Created a responsive landing page for a cloud service provider in Jakarta using TypeScript and Astro.js. Achieved 98-100% performance score on Google Lighthouse and reduced page load times to under 2 seconds, improving user engagement.
   - Develop a full-featured online manga reading application using SvelteKit and Pocketbase.
-    // - Implemented user authentication, manga catalog management, and smooth navigation, leading to a *25% increase in active user sessions* within the first month of launch.
+  // - Implemented user authentication, manga catalog management, and smooth navigation, leading to a *25% increase in active user sessions* within the first month of launch.
 ]
 #box(height: 23pt)[
   *Inovindo Digital Media* #h(1fr) Bandung, Indonesia (On-site) \
