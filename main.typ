@@ -12,9 +12,15 @@
 ]
 
 == SUMMARY
-Software Developer with proven track record in crafting modern web solutions using TypeScript and Golang. At Netovas Eterna Teknologi, built high-impact applications including an optimized ticketing system with 20% improved performance and a comprehensive billing platform. Distinguished Informatics Engineering graduate with multiple academic awards and a portfolio of successful open-source projects ranging from developer tools to web applications. Seeking challenging opportunities to create innovative, scalable software solutions that deliver measurable business value.
+Full Stack Developer with proven track record in crafting modern web solutions using TypeScript, Svelte, and Golang. Experienced in building high-impact applications including AI-powered financial analysis systems, multilingual project management platforms, and optimized ticketing systems with improved performance. Distinguished Informatics Engineering graduate with multiple academic awards and a portfolio of successful open-source projects ranging from developer tools to web applications. Seeking challenging opportunities to create innovative, scalable software solutions that deliver measurable business value.
 
 == WORK EXPERIENCE
+#pad(bottom: 10pt)[
+  *Generative Studio* #h(1fr) Tallinn, Estonia (Remote) \
+  _Full Stack Developer_ #h(1fr) April 2025 – Present
+  - Developed a cutting-edge AI-powered financial document analysis system using SvelteKit, Supabase, and Tailwind CSS, revolutionizing financial data extraction with 95% accuracy while delivering an intuitive user experience for complex operations.
+  - Developed a dynamic multilingual project management platform with SvelteKit and Tailwind CSS, implementing a headless WordPress CMS architecture with full i18n support that boosted client engagement by 30% across international markets.
+]
 #pad(bottom: 10pt)[
   *Netovas Eterna Teknologi* #h(1fr) Bekasi, Indonesia (Remote) \
   _Full Stack Developer_ #h(1fr) December 2023 – April 2025
@@ -22,7 +28,7 @@ Software Developer with proven track record in crafting modern web solutions usi
   - Build a backend billing system using Node.js and Adonis.js for the same ISP to manage complex financial transaction.
   // - Reduced financial data processing time by *30%*, ensuring seamless handling of over *1.000 transactions per day*.
   - Created a responsive landing page for a cloud service provider in Jakarta using TypeScript and Astro.js. Achieved 98-100% performance score on Google Lighthouse and reduced page load times to under 2 seconds, improving user engagement.
-  - Develop a full-featured online manga reading application using SvelteKit and Pocketbase.
+  - Developed a full-featured online manga reading application using SvelteKit and Pocketbase.
   // - Implemented user authentication, manga catalog management, and smooth navigation, leading to a *25% increase in active user sessions* within the first month of launch.
 ]
 #box(height: 23pt)[
@@ -54,7 +60,7 @@ Software Developer with proven track record in crafting modern web solutions usi
   #columns(2)[
     *Programming Languages*: TypeScript, JavaScript, Golang \
     *Front end*: Svelte, React, Next.js, Tailwind CSS \
-    *Back end*: Node.js, Adonis, Hono, Fiber, Bun \
+    *Back end*: Node.js, Adonis, Hono, NestJS, Fiber, Bun \
     *Database*: PostgreSQL, MySQL, SQLite, Redis, MongoDB \
     *DevOps*: Linux, Docker, GitHub Actions, NGINX, PM2, Dokploy \
   ]
@@ -85,12 +91,15 @@ Software Developer with proven track record in crafting modern web solutions usi
 // ]
 
 == FEATURED PORTFOLIO
-- #link("https://github.com/tfkhdyt/with-catch")[With Catch] - TypeScript utitlities that wrap promise or synchronous function to catch the error then return the result and error in consistent tuple format.
-- #link("https://github.com/tfkhdyt/yukitanya")[Yukitanya] - Platform that connects many students into a discussion forum to complete schoolwork together.
 - #link("https://github.com/tfkhdyt/geminicommit")[Geminicommit] - CLI that writes your git commit messages for you with Google Gemini AI.
-- #link("https://github.com/tfkhdyt/pomodoro")[Pomodoro] - Minimalistic Pomodoro Timer Desktop App written in Tauri and SvelteKit.
+- #link("https://github.com/tfkhdyt/yukitanya")[Yukitanya] - Platform that connects many students into a discussion forum to complete schoolwork together.
+- #link("https://github.com/tfkhdyt/remove-biji")[Remove Biji] - Online Image Background Remover
+- #link("https://github.com/tfkhdyt/minipom")[Minipom] - Minimalistic Pomodoro Timer Desktop App written in Tauri and SvelteKit.
+- #link("https://github.com/tfkhdyt/roastgithub")[Roast Github] - Roast your Github profile with AI.
+- #link("https://github.com/tfkhdyt/clustrex")[Clustrex] - TypeScript library for creating clustered Node.js applications.
 - #link("https://github.com/tfkhdyt/pondokeun")[Pondokeun] - Lightweight, Modern, Free and Open Source Link Shortener.
-- #link("https://remove.biji.my.id")[Remove Biji] - Online Image Background Remover
+- #link("https://github.com/tfkhdyt/urban-cli")[Urban CLI] - Blazingly fast command line interface for Urban Dictionary
+- #link("https://github.com/tfkhdyt/with-catch")[With Catch] - TypeScript utility that wraps functions to return results and errors in a consistent tuple format.
 #link("https://github.com/tfkhdyt?tab=repositories")[See my other portfolios here »]
 
 == CERTIFICATIONS
