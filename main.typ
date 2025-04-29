@@ -26,20 +26,18 @@ Full Stack Developer with proven track record in crafting modern web solutions u
   _Full Stack Developer_ #h(1fr) December 2023 – April 2025
   - Developed a ticketing application for an ISP in Bekasi using Golang and Fiber framework. Optimized system performance, resulting in 20% faster query processing and improved system scalability to handle 2x previous user load.
   - Build a backend billing system using Node.js and Adonis.js for the same ISP to manage complex financial transaction.
-  // - Reduced financial data processing time by *30%*, ensuring seamless handling of over *1.000 transactions per day*.
   - Created a responsive landing page for a cloud service provider in Jakarta using TypeScript and Astro.js. Achieved 98-100% performance score on Google Lighthouse and reduced page load times to under 2 seconds, improving user engagement.
   - Developed a full-featured online manga reading application using SvelteKit and Pocketbase.
-  // - Implemented user authentication, manga catalog management, and smooth navigation, leading to a *25% increase in active user sessions* within the first month of launch.
 ]
 #box(height: 23pt)[
   *Inovindo Digital Media* #h(1fr) Bandung, Indonesia (On-site) \
   _Junior Web Developer Intern_ #h(1fr) January 2019 – March 2019
 ]
-- Developed an e-commerce website tailored for resellers.
-- Deployed completed websites by the development team to various hosting platforms.
-- Managed the company’s product list database.
-- Published articles for client company blogs.
-- Enhanced search engine optimization (SEO) of client websites to improve visibility and performance.
+- Developed a dynamic e-commerce platform specifically crafted for reseller businesses.
+- Orchestrated seamless deployment of team-developed websites across diverse hosting environments.
+- Curated and maintained the company's comprehensive product database with meticulous attention to detail.
+- Crafted compelling content articles for client blogs, enhancing their digital presence.
+- Revolutionized client website visibility through strategic SEO implementation, dramatically boosting search rankings and user engagement.
 
 == EDUCATION
 #pad(bottom: 10pt)[
