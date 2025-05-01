@@ -12,14 +12,14 @@
 ]
 
 == SUMMARY
-Full Stack Developer with proven track record in crafting modern web solutions using TypeScript, Svelte, and Golang. Experienced in building high-impact applications including AI-powered financial analysis systems, multilingual project management platforms, and optimized ticketing systems with improved performance. Distinguished Informatics Engineering graduate with multiple academic awards and a portfolio of successful open-source projects ranging from developer tools to web applications. Seeking challenging opportunities to create innovative, scalable software solutions that deliver measurable business value.
+Full Stack Developer with proven track record in crafting modern web solutions using TypeScript, Svelte, and Golang. Experienced in building high-impact applications including AI-powered financial analysis systems, multilingual project management marketing page, and optimized ticketing systems with improved performance. Distinguished Informatics Engineering graduate with multiple academic awards and a portfolio of successful open-source projects ranging from developer tools to web applications. Seeking challenging opportunities to create innovative, scalable software solutions that deliver measurable business value.
 
 == WORK EXPERIENCE
 #pad(bottom: 10pt)[
   *Generative Studio* #h(1fr) Tallinn, Estonia (Remote) \
   _Full Stack Developer_ #h(1fr) April 2025 – Present
   - Developed a cutting-edge AI-powered financial document analysis system using SvelteKit, Supabase, and Tailwind CSS, revolutionizing financial data extraction with 95% accuracy while delivering an intuitive user experience for complex operations.
-  - Developed a dynamic multilingual project management platform with SvelteKit and Tailwind CSS, implementing a headless WordPress CMS architecture with full i18n support that boosted client engagement by 30% across international markets.
+  - Developed a dynamic multilingual project management marketing page with SvelteKit and Tailwind CSS, implementing a headless WordPress CMS architecture with full i18n support that boosted client engagement by 30% across international markets.
 ]
 #pad(bottom: 10pt)[
   *Netovas Eterna Teknologi* #h(1fr) Bekasi, Indonesia (Remote) \
