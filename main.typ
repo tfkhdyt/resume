@@ -54,39 +54,16 @@ Full Stack Developer with proven track record in crafting modern web solutions u
 ]
 
 == TECHNICAL SKILLS
-#box(height: 50pt)[
-  #columns(2)[
-    *Programming Languages*: TypeScript, JavaScript, Golang \
-    *Front end*: Svelte, React, Next.js, Tailwind CSS \
-    *Back end*: Node.js, Adonis, Hono, NestJS, Fiber, Bun \
-    *Database*: PostgreSQL, MySQL, SQLite, Redis, MongoDB \
-    *DevOps*: Linux, Docker, GitHub Actions, NGINX, PM2, Dokploy \
-  ]
-]
+*Programming Languages*: TypeScript, JavaScript, Golang, Python
 
-// #box(height: 58pt)[
-//   #columns(4)[
-//     - TypeScript
-//     - Golang
-//     - Adonis.js
-//     - SvelteKit
-//     - Next.js
-//     - Hono
-//     - Fiber
-//     - Tailwind CSS
-//     - PostgreSQL
-//     - MySQL
-//     - SQLite
-//     - Redis
-//     - MongoDB
-//     - Linux
-//     - Docker
-//     // - GitHub Actions
-//     // - NGINX
-//     // - PM2
-//     // - Dokploy
-//   ]
-// ]
+*Front end*: Svelte, React, Next.js, Tailwind CSS, Astro
+
+*Back end*: Node.js, Adonis, Hono, NestJS, Fiber, Bun, FastAPI
+
+*Database*: PostgreSQL, MySQL, SQLite, Redis, MongoDB, Supabase
+
+*DevOps*: Linux, Docker, GitHub Actions, NGINX, PM2, Dokploy, AWS
+
 
 == FEATURED PORTFOLIO
 - #link("https://github.com/tfkhdyt/geminicommit")[Geminicommit] - CLI that writes your git commit messages for you with Google Gemini AI.
@@ -100,15 +77,25 @@ Full Stack Developer with proven track record in crafting modern web solutions u
 - #link("https://github.com/tfkhdyt/with-catch")[With Catch] - TypeScript utility that wraps functions to return results and errors in a consistent tuple format.
 #link("https://github.com/tfkhdyt?tab=repositories")[See my other portfolios here »]
 
-== CERTIFICATIONS
-*Mastering JavaScript* #h(1fr) 28 December 2023 \
+== ACHIEVEMENTS
+*Best Student of Computer Science* #h(1fr) October 2024 \
+Faculty of Information Technology, Bale Bandung University
+#v(5pt)
+*Best Academic Achievement* #h(1fr) December 2023 \
 Forest Interactive (MSIB Batch 5)
 #v(5pt)
-*Scalable Web Service with Golang* #h(1fr) 30 June 2023 \
+*Best Capstone Project Winner* #h(1fr) December 2023 \
+Forest Interactive (MSIB Batch 5)
+
+== CERTIFICATIONS
+*Mastering JavaScript* #h(1fr) December 2023 \
+Forest Interactive (MSIB Batch 5)
+#v(5pt)
+*Scalable Web Service with Golang* #h(1fr) June 2023 \
 Hacktiv8 Indonesia (MSIB Batch 4)
 #v(5pt)
-*Become An Expert Back-End Developer* #h(1fr) 6 February 2023 \
+*Become An Expert Back-End Developer* #h(1fr) February 2023 \
 Dicoding Indonesia (IDCamp 2022)
 #v(5pt)
-*Building a Cloud Architecture on AWS* #h(1fr) 18 October 2022 \
+*Building a Cloud Architecture on AWS* #h(1fr) October 2022 \
 Dicoding Indonesia (IDCamp 2022)
