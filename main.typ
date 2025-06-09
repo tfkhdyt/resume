@@ -19,15 +19,17 @@ Full Stack Developer with proven track record in crafting modern web solutions u
   *Generative Studio* #h(1fr) Tallinn, Estonia (Remote) \
   _Full Stack Developer_ #h(1fr) April 2025 – Present
   - Developed a cutting-edge AI-powered financial document analysis system using SvelteKit, Supabase, and Tailwind CSS, revolutionizing financial data extraction with 95% accuracy while delivering an intuitive user experience for complex operations.
-  - Developed a dynamic multilingual project management marketing page with SvelteKit and Tailwind CSS, implementing a headless WordPress CMS architecture with full i18n support that boosted client engagement by 30% across international markets.
+  - Implemented a dynamic multilingual project management marketing page with SvelteKit and Tailwind CSS, implementing a headless WordPress CMS architecture with full i18n support that boosted client engagement by 30% across international markets.
+  - Built an AI-powered family heritage SaaS platform with SvelteKit frontend (interactive family trees, data vault, knowledge center, Stripe billing) and FastAPI backend featuring immersive AI video calls via Daily WebRTC, Cartesia TTS, Groq Whisper, AI avatar generation (Simli/Tavus), and PostgreSQL database for personalized family assistant experiences.
 ]
 #pad(bottom: 10pt)[
   *Netovas Eterna Teknologi* #h(1fr) Bekasi, Indonesia (Remote) \
   _Full Stack Developer_ #h(1fr) December 2023 – April 2025
   - Developed a ticketing application for an ISP in Bekasi using Golang and Fiber framework. Optimized system performance, resulting in 20% faster query processing and improved system scalability to handle 2x previous user load.
-  - Build a backend billing system using Node.js and Adonis.js for the same ISP to manage complex financial transaction.
+  - Built a backend billing system using Node.js and Adonis.js for the same ISP to manage complex financial transaction.
   - Created a responsive landing page for a cloud service provider in Jakarta using TypeScript and Astro.js. Achieved 98-100% performance score on Google Lighthouse and reduced page load times to under 2 seconds, improving user engagement.
-  - Developed a full-featured online manga reading application using SvelteKit and Pocketbase.
+  - Engineered a full-featured online manga reading application using SvelteKit and Pocketbase.
+  - Architected an admin panel for Anime Streaming Platform using React Router and Tailwind CSS, featuring automated WordPress data migration to PostgreSQL database and anime metadata synchronization from MyAnimeList API integration.
 ]
 #box(height: 23pt)[
   *Inovindo Digital Media* #h(1fr) Bandung, Indonesia (On-site) \
@@ -54,14 +56,10 @@ Full Stack Developer with proven track record in crafting modern web solutions u
 ]
 
 == TECHNICAL SKILLS
-*Programming Languages*: TypeScript, JavaScript, Golang, Python
-
-*Front end*: Svelte, React, Next.js, Tailwind CSS, Astro
-
-*Back end*: Node.js, Adonis, Hono, NestJS, Fiber, Bun, FastAPI
-
-*Database*: PostgreSQL, MySQL, SQLite, Redis, MongoDB, Supabase
-
+*Programming Languages*: TypeScript, JavaScript, Golang, Python \
+*Front end*: Svelte, React, Next.js, Tailwind CSS, Astro \
+*Back end*: Node.js, Adonis, Hono, NestJS, Fiber, Bun, FastAPI \
+*Database*: PostgreSQL, MySQL, SQLite, Redis, MongoDB, Supabase \
 *DevOps*: Linux, Docker, GitHub Actions, NGINX, PM2, Dokploy, AWS
 
 
