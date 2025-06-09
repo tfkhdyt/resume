@@ -8,7 +8,7 @@
   set par(justify: true)
   set text(font: "Crimson Text", hyphenate: false, size: 10pt)
   set par(leading: 1em)
-  set page(margin: (x: 30pt, y: 50pt))
+  set page(margin: (x: 30pt, y: 35pt))
   show link: it => [
     #underline(offset: 2pt)[
       #it
