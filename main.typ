@@ -12,7 +12,7 @@
 ]
 
 == SUMMARY
-Full Stack Developer with proven track record in crafting modern web solutions using TypeScript, Svelte, and Golang. Experienced in building high-impact applications including AI-powered financial analysis systems, multilingual project management marketing page, and optimized ticketing systems with improved performance. Distinguished Informatics Engineering graduate with multiple academic awards and a portfolio of successful open-source projects ranging from developer tools to web applications. Seeking challenging opportunities to create innovative, scalable software solutions that deliver measurable business value.
+Award-winning Full Stack Developer specializing in AI-powered web applications and performance optimization. Proven expertise in TypeScript, Svelte, and Golang with a track record of delivering 95% accuracy AI systems, 30% engagement improvements, and 20% performance gains. Distinguished Computer Science graduate (3.78 GPA) with extensive open-source contributions and experience building scalable solutions from enterprise applications to developer tools. Passionate about leveraging cutting-edge technologies to solve complex business challenges and drive measurable results.
 
 == WORK EXPERIENCE
 #pad(bottom: 10pt)[
@@ -74,16 +74,6 @@ Full Stack Developer with proven track record in crafting modern web solutions u
 - #link("https://github.com/tfkhdyt/urban-cli")[Urban CLI] - Blazingly fast command line interface for Urban Dictionary
 - #link("https://github.com/tfkhdyt/with-catch")[With Catch] - TypeScript utility that wraps functions to return results and errors in a consistent tuple format.
 #link("https://github.com/tfkhdyt?tab=repositories")[See my other portfolios here »]
-
-== ACHIEVEMENTS
-*Best Student of Computer Science* #h(1fr) October 2024 \
-Faculty of Information Technology, Bale Bandung University
-#v(5pt)
-*Best Academic Achievement* #h(1fr) December 2023 \
-Forest Interactive (MSIB Batch 5)
-#v(5pt)
-*Best Capstone Project Winner* #h(1fr) December 2023 \
-Forest Interactive (MSIB Batch 5)
 
 == CERTIFICATIONS
 *Mastering JavaScript* #h(1fr) December 2023 \
