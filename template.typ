@@ -16,7 +16,7 @@
   ]
   show link: set text(rgb("#2b2b95"))
   show heading: it => [
-    #v(15pt)
+    #v(25pt)
     #align(center)[
       #text(size: 12pt)[#it]
     ]

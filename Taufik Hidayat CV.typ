@@ -5,24 +5,26 @@
   authors: "Taufik Hidayat",
 )
 
-#align(center)[
-  #text(size: 14pt)[*TAUFIK HIDAYAT*] \
-  Portfolio: #link("https://hidayat.dev")[hidayat.dev] | Email: #link("mailto:taufik@hidayat.dev")[taufik\@hidayat.dev] | Phone Number: +6285156002842 \
-  LinkedIn: #link("https://linkedin.com/in/tfkhdyt142")[linkedin.com/in/tfkhdyt142] | GitHub: #link("https://github.com/tfkhdyt")[github.com/tfkhdyt]
+#pad(bottom: -10pt)[
+  #align(center)[
+    #text(size: 14pt)[*TAUFIK HIDAYAT*] \
+    Website: #link("https://hidayat.dev")[hidayat.dev] | Email: #link("mailto:taufik@hidayat.dev")[taufik\@hidayat.dev] | Phone Number: +62 851 5600 2842 \
+    LinkedIn: #link("https://linkedin.com/in/tfkhdyt142")[linkedin.com/in/tfkhdyt142] | GitHub: #link("https://github.com/tfkhdyt")[github.com/tfkhdyt]
+  ]
 ]
 
-== SUMMARY
+== PROFESSIONAL SUMMARY
 Award-winning Full Stack Developer specializing in AI-powered web applications and performance optimization. Proven expertise in TypeScript, Svelte, and Golang with a track record of delivering 95% accuracy AI systems, 30% engagement improvements, and 20% performance gains. Distinguished Computer Science graduate (3.78 GPA) with extensive open-source contributions and experience building scalable solutions from enterprise applications to developer tools. Passionate about leveraging cutting-edge technologies to solve complex business challenges and drive measurable results.
 
 == WORK EXPERIENCE
-#pad(bottom: 10pt)[
+#pad(bottom: 15pt)[
   *Generative Studio* #h(1fr) Tallinn, Estonia (Remote) \
   _Full Stack Developer_ #h(1fr) April 2025 – Present
   - Developed a cutting-edge AI-powered financial document analysis system using SvelteKit, Supabase, and Tailwind CSS, revolutionizing financial data extraction with 95% accuracy while delivering an intuitive user experience for complex operations.
   - Implemented a dynamic multilingual project management marketing page with SvelteKit and Tailwind CSS, implementing a headless WordPress CMS architecture with full i18n support that boosted client engagement by 30% across international markets.
   - Built an AI-powered family heritage SaaS platform with SvelteKit frontend (interactive family trees, data vault, knowledge center, Stripe billing) and FastAPI backend featuring immersive AI video calls via Daily WebRTC, Cartesia TTS, Groq Whisper, AI avatar generation (Simli/Tavus), and PostgreSQL database for personalized family assistant experiences.
 ]
-#pad(bottom: 10pt)[
+#pad(bottom: 15pt)[
   *Netovas Eterna Teknologi* #h(1fr) Bekasi, Indonesia (Remote) \
   _Full Stack Developer_ #h(1fr) December 2023 – April 2025
   - Developed a ticketing application for an ISP in Bekasi using Golang and Fiber framework. Optimized system performance, resulting in 20% faster query processing and improved system scalability to handle 2x previous user load.
@@ -31,7 +33,7 @@ Award-winning Full Stack Developer specializing in AI-powered web applications a
   - Engineered a full-featured online manga reading application using SvelteKit and Pocketbase.
   - Architected an admin panel for Anime Streaming Platform using React Router and Tailwind CSS, featuring automated WordPress data migration to PostgreSQL database and anime metadata synchronization from MyAnimeList API integration.
 ]
-#box(height: 23pt)[
+#box(height: 28pt)[
   *Inovindo Digital Media* #h(1fr) Bandung, Indonesia (On-site) \
   _Junior Web Developer Intern_ #h(1fr) January 2019 – March 2019
 ]
@@ -62,8 +64,7 @@ Award-winning Full Stack Developer specializing in AI-powered web applications a
 *Database*: PostgreSQL, MySQL, SQLite, Redis, MongoDB, Supabase \
 *DevOps*: Linux, Docker, GitHub Actions, NGINX, PM2, Dokploy, AWS
 
-
-== FEATURED PORTFOLIO
+== SELECTED PROJECTS
 - #link("https://github.com/tfkhdyt/geminicommit")[Geminicommit] - CLI that writes your git commit messages for you with Google Gemini AI.
 - #link("https://github.com/tfkhdyt/yukitanya")[Yukitanya] - Platform that connects many students into a discussion forum to complete schoolwork together.
 - #link("https://github.com/tfkhdyt/remove-biji")[Remove Biji] - Online Image Background Remover
